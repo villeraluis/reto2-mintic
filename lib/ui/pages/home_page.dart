@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
         height: 20,
       ),
       const Text(
-        "Luis V, ",
+        "Luis V,Jorge G,Katherin R,Luis D",
         style: TextStyle(
             fontSize: 18.0,
             color: Colors.black45,
