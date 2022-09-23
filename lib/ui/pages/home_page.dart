@@ -46,8 +46,7 @@ class HomePage extends StatelessWidget {
       children: const [
         CustomBanner(200),
         CircleAvatar(
-          backgroundImage:
-              NetworkImage("https://randomuser.me/api/portraits/women/75.jpg"),
+          backgroundImage: AssetImage('images/fotoperfil.jpg'),
           radius: 60.0,
         )
       ],
